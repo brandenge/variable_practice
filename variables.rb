@@ -9,3 +9,7 @@ age_3 = 56
 price_1 = 32.54
 price_2 = 2.54
 price_3 = 532.65
+
+paid_1 = false
+paid_2 = true
+paid_3 = false
